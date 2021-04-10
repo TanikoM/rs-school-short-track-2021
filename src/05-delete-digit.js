@@ -9,7 +9,7 @@
  * For n = 152, the output should be 52
  *
  */
-function deleteDigit(/* n */) {
+function deleteDigit(n) {
   throw new Error('Not implemented');
 }
 
